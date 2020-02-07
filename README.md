@@ -17,3 +17,14 @@ Create the second participant_2, specifying the ProxyIdentifier
 Send a template message from Twilio Whatsapp number from rest API to participant_2. 
 
 When participant_2 responds to Twilio Whatsapp number, participant_1 will receive a message from Twilio Whatsapp number. After this, both participants can message each other.
+
+
+Comments:
+
+Blue double tick (read message) is not supported
+
+Audio messages are supported
+
+Media is supported
+
+The steps not covered by the scripts can be done easily from console. I'll update the scripts when I have more time or PRs are welcome :) 
