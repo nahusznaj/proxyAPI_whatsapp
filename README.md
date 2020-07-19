@@ -27,4 +27,6 @@ Audio messages are supported
 
 Media is supported
 
+WhatsApp calls are not supported
+
 The steps not covered by the scripts can be done easily from console. I'll update the scripts when I have more time or PRs are welcome :) 
